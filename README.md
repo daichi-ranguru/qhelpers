@@ -1,6 +1,6 @@
 # QHelpers
 
-**Welcome** to my code helpers. It`s mainly for my own purposes, but it`s good idea to share and contribute in Github since I`m already saving it here.
+**Welcome** to my code helpers. It's mainly for my own purposes, but it's good idea to share and contribute in Github since I'm already saving it here.
 
 Any improvment tips and contribution is always welcomed with my opened arms :)
 
